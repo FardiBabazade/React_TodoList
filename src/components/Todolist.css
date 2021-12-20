@@ -1,0 +1,11 @@
+.newdiv{
+    position: relative;
+    border-bottom-style: dashed;
+    width: 30%;
+    background-color: #57b0f7;
+    font-size: 1.2em;
+    border-radius: .3em;
+}
+.deleteddiv{
+    display: none;
+}
